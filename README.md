@@ -15,14 +15,14 @@ Apresentar diversas ferramentas úteis para facilitar o trabalho do dia a dia co
 Dar orientação e feedback em tempo real para garantir que todos os participantes possam obter o máximo de benefício do curso;
 Preparar os participantes para aplicar seus conhecimentos em projetos reais e utilizar o Git para gerenciar o versionamento de seu próprio código de forma mais eficiente e organizada;
 
-#Especificações
+# Especificações
 Este curso visa apresentar aos iniciantes no mundo da programação a ferramenta Git e a plataforma Github. Serão apresentados desde conceitos básicos até dicas e truques para o uso mais eficiente dessas ferramentas.
 Público-alvo 
 Este curso é voltado para iniciantes no mundo da programação que desejam aprender a utilizar o Git e Github em seus projetos.
 Pré-requisitos 
 Conhecimento básico de informática.
 
-#Módulos
+# Módulos
 
 Introdução ao Git e Github 
 O que é o Git
